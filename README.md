@@ -1,1 +1,3 @@
 # bbb-journal
+
+Nowa zmiana
