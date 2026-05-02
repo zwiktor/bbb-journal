@@ -1,28 +1,59 @@
-# bbb-journal
+# 🎮 Bit-By-Bit Challenge - Journal
 
-Projekt Bit-By-Bit polegać bedzie na przetestwoaniu zasady 5 minut dziennie przez 360 dni w celu potwierdzenia efektów działania
+## 📋 Przegląd projektu
 
-Te repozytorium ma służyć zapisywaniu postępów i co tygodniowych relacji z postępów prac
+**Bit-By-Bit** to roczny challenge polegający na praktykowaniu game development przez **minimum 5 minut każdego dnia przez 365 dni**, aby potwierdzić efektywność systematycznej praktyki.
 
-Założenia techniczne:
-    - Do tworzenia bede staral sie wykorzystywac AI, aby w jak najmniej czasu przeznaczac na tworzenie assetow.
-    - Silnik -> Godot z gdscript
-    - versjonowanie kodu w github
-    - edytor tekstu VSC z podłączonym gdotem.        - 
+Repozytorium służy do **dokumentowania postępów** i publikowania **cotygodniowych raportów z pracy**.
 
+---
 
-Założenia wyzwania:
-    - Wyzwanie ma trwać cały rok rozpoczynajac od 1 Maja 
-    - Kazdego dnia spędze przynajmnie 5 minut na aktywnym gamedavie. 
-    - Co tydzien bede opisywał czy udało się każdego dnia usiąść do projektu + ile czasu ponad 5 minut udało się aktywnie tworzyć gry
-    - ilość wykonanej pracy w kazdym tygodniu ma maly priorytet
-    - Najwazniejsze jest dokumentowanie postepow prac i udostepnianie tego publicznie.
-    - W tym czasie bede realizowal mozliwie male projekty, które bede realizował od poczatku do konca
-    - Prowadzenie projektu w github projects w celu zachowania ilosci zmian oraz wdrozen ktore uda sie zrobic
-    - Przygotowywanie raportow cotygodniowych z filmikiem youtube
+## 🎯 Założenia wyzwania
 
-W tym repozytorium są przechowywane assety do tworzenia podsumowań, prompty oraz wszystkie pomocne linki, które będą ułatwiały organizowanie challengu.
+- **Czas trwania**: cały rok od 1 maja
+- **Dzienne zaangażowanie**: minimum 5 minut aktywnego game dev
+- **Tygodniowe raporty**: dokumentacja codziennej konsekwencji + dodatkowy czas poświęcony na projekt
+- **Wielkość projektów**: małe projekty realizowane od początku do końca
+- **Tracking**: GitHub Projects do śledzenia zmian i wdrażanych funkcji, Wakatime
+- **Komunikacja**: cotygodniowe raporty wideo na YouTube
 
-Będzie również folder journal w którym będę przechowywał postępy z każdego tygodnia pracy. 
+---
 
-Spisane narzędzia i flow do tworzenia filmiku z podsumowaniem.  
+## 🛠️ Stack techniczny
+
+| Komponenta | Narzędzie |
+|---|---|
+| **Silnik** | Godot (GDScript) |
+| **Kontrola wersji** | GitHub |
+| **Edytor** | Visual Studio Code + Godot Extension |
+| **Asysty** | AI do tworzenia assetów |
+
+---
+
+## 📁 Struktura repozytorium
+
+```
+bbb-journal/
+├── README.md              # Ten plik
+├── journal/               # Postępy z każdego tygodnia pracy
+│   └── week_X/           
+│       └── notes/        
+├── video_assets/         # Zasoby do tworzenia podsumowań
+├── Notes/                # Notatki i dokumentacja
+└── prompts/              # Prompty dla AI
+```
+
+---
+
+## 📦 Zawartość repozytorium
+
+- **Assety wideo**: materiały do tworzenia cotygodniowych raportów
+- **Prompty**: szablony do pracy z AI
+- **Linki**: przydatne zasoby ułatwiające organizację challengu
+- **Journal**: tygodniowe notatki z postępów
+
+---
+
+## 🎬 Workflow - Tworzenie raportów tygodniowych
+
+Narzędzia i proces opisane w dedykowanej sekcji (patrz `tools-and-flow.md`)  
