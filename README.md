@@ -19,6 +19,14 @@ Repozytorium służy do **dokumentowania postępów** i publikowania **cotygodni
 
 ---
 
+## 🌐 Widoczność w internecie
+
+- **YouTube + TikTok**: cotygodniowe raporty i highlights z postępów
+- **itch.io**: publikacja gotowych game buildów
+- **Discord**: kanał komunikacji na przyszłość (jeśli będzie potrzeba)
+
+---
+
 ## 🛠️ Stack techniczny
 
 | Komponenta | Narzędzie |
@@ -37,7 +45,7 @@ bbb-journal/
 ├── README.md              # Ten plik
 ├── journal/               # Postępy z każdego tygodnia pracy
 │   └── week_X/           
-│       └── notes/        
+│       └── thoughts        
 ├── video_assets/         # Zasoby do tworzenia podsumowań
 ├── Notes/                # Notatki i dokumentacja
 └── prompts/              # Prompty dla AI
