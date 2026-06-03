@@ -34,7 +34,10 @@ Repozytorium służy do **dokumentowania postępów** i publikowania **cotygodni
 | **Silnik** | Godot (GDScript) |
 | **Kontrola wersji** | GitHub |
 | **Edytor** | Visual Studio Code + Godot Extension |
-| **Asysty** | AI do tworzenia assetów |
+| **pixelart** | pixieditor |
+| **Inspiracje do pixelartu** | https://www.krea.ai/  https://leonardo.ai/ |
+| **muzyka/efekty dzwiękowe** | audacity |
+| **muzyka od AI** | https://suno.com/create |
 
 ---
 
@@ -71,4 +74,4 @@ bbb-journal/
 5. Montaż w CapCut + Publikacja     → YouTube Shorts / TikTok
 ```
 
-Każdy skill zawiera szczegółowe instrukcje. Patrz: `.github/skills/`  
+Każdy skill zawiera szczegółowe instrukcje. Patrz: `.github/skills/` PA 
