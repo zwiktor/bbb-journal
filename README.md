@@ -48,7 +48,6 @@ bbb-journal/
 │       └── thoughts        
 ├── video_assets/         # Zasoby do tworzenia podsumowań
 ├── Notes/                # Notatki i dokumentacja
-└── prompts/              # Prompty dla AI
 ```
 
 ---
@@ -64,4 +63,12 @@ bbb-journal/
 
 ## 🎬 Workflow - Tworzenie raportów tygodniowych
 
-Narzędzia i proces opisane w dedykowanej sekcji (patrz `tools-and-flow.md`)  
+```
+1. /new-week-folder week_X          → Struktura folderów
+2. Zbierz dane: notes.md + data.md   → Screenshoty, WakaTime
+3. /check-week-data week_X          → Walidacja danych
+4. /generate-tiktok-scenario week_X → Scenariusz gotowy do CapCut
+5. Montaż w CapCut + Publikacja     → YouTube Shorts / TikTok
+```
+
+Każdy skill zawiera szczegółowe instrukcje. Patrz: `.github/skills/`  
